@@ -4,4 +4,10 @@
     <string name="preco">Preço</string>
     <string name="quantidade">Quantidade</string>
     <string name="remove">Remove</string>
+    <string name="falha_atualiza">Falha ao atualizar</string>
+    <string name="falha_deletar">Falha ao deletar, erro de comunicação!</string>
+    <string name="falha_inserir">Erro ao inserir componente</string>
+    <string name="falha_remove">Erro ao atualizar</string>
+    <string name="falha_resposta">Resposta não sucedida</string>
+    <string name="falha_comunicacao">Falha na comunicação:</string>
 </resources>
